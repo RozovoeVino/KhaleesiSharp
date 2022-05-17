@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net6.0</TargetFrameworks>
+    <PackageId>KhaleesiSharp</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>RozovoeVino</Authors>
+    <PackageDescription>Библиотека для имитирования речи Кхалиси.</PackageDescription>
+    <RepositoryUrl>https://github.com/RozovoeVino/KhaleesiSharp</RepositoryUrl>
+  </PropertyGroup>
+</Project>
